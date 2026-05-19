@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Uy!Transfer</title>
     <style>
-        /* Estils bàsics d'esquema / wireframe */
-        body {
+         body {
             font-family: 'Helvetica Neue', Arial, sans-serif;
             background-color: #f5f5f5;
             margin: 0;
